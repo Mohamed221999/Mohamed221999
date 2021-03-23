@@ -1,6 +1,6 @@
 # Hi, I'm **Mohamed!**
 
- I'm a student @Faculty of Engineering Cairo University
+ I'm a student @[Faculty of Engineering Cairo University](http://eng.cu.edu.eg/ar/)
 
  I am passionate about cross platform mobile apps using Flutter and dart
 
