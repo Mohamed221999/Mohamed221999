@@ -9,8 +9,8 @@
 
  * I'm a student @[Faculty of Engineering Cairo University](http://eng.cu.edu.eg/ar/)
 
- * I am working as a freelancer mobile developer on [fiverr](https://www.fiverr.com/mohamedragab22?up_rollout=true) and [UpWork](https://www.upwork.com/freelancers/~01898d38ed3e953e12) and i am passionate about cross platform mobile apps using [Flutter](https://flutter.dev/?gclsrc=aw.ds&&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQiuwdY-ozZsuZfE-BGTy5OuUT4zTgoWEmcRhwouBdQ6hpL_9bREiy9gaAsRlEALw_wcB) and [dart](https://dart.dev/)
+ * I am working as a freelancer mobile and web developer on [fiverr](https://www.fiverr.com/mohamedragab22?up_rollout=true) and [UpWork](https://www.upwork.com/freelancers/~01898d38ed3e953e12) and i am passionate about cross platform mobile apps using [Flutter](https://flutter.dev/?gclsrc=aw.ds&&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQiuwdY-ozZsuZfE-BGTy5OuUT4zTgoWEmcRhwouBdQ6hpL_9bREiy9gaAsRlEALw_wcB) and [dart](https://dart.dev/)
 
- * I'm currently focused on improving my ability of development backend services using [**Node.js**](https://nodejs.org/en/) and **MongoDB**
+ * I'm currently focused on improving my ability of development backend services using [**ASP.NET Core**](https://nodejs.org/en/) and **SQL Server**
 
  * Ask me about anything, I will be happy to help
