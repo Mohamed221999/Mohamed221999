@@ -14,3 +14,9 @@
  * I'm currently focused on improving my ability of development backend services using [**ASP.NET Core**](https://nodejs.org/en/) and **SQL Server**
 
  * Ask me about anything, I will be happy to help
+
+ <div align="center">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdallahHemdan&show_icons=true&theme=radical)
+  
+</div>
