@@ -15,3 +15,8 @@
 
  * Ask me about anything, I will be happy to help
 
+<div align="center">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MohamedRagaab&show_icons=true&theme=radical)
+  
+</div>
