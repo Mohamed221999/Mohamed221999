@@ -17,6 +17,8 @@
  * I'm currently focused on improving my ability of development backend services using [**ASP.NET Core**](https://nodejs.org/en/) and **SQL Server**
 
  * Ask me about anything, I will be happy to help
+ 
+ * Download My [Resume](https://drive.google.com/file/d/1MvTzWGwV7b94bSloX9EZlWQ3Aas6rnoi/view?usp=sharing) 
 
 <div align="center">
 
