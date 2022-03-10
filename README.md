@@ -7,14 +7,14 @@
 
 # Hi, I'm **Mohamed!**
 
- * Full Stack Engineer who is passionate about backend development web applications and building native and
+ * Full Stack Engineer who is passionate about backend development, web applications and building native and
    cross platform mobile apps, I have some experience in planning and building applications from scratch and
    I’m looking forward to working in a challenging work environment and building my knowledge about
    engineering and computer science.
-
+   
+ * I'm currently focused on improving my ability of development backend services using [**ASP.NET Core**](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0) and [**SQL Server**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+   
  * I am working as a freelancer mobile and web developer on [fiverr](https://www.fiverr.com/mohamedragab22?up_rollout=true) and [UpWork](https://www.upwork.com/freelancers/~01898d38ed3e953e12) and i am passionate about cross platform mobile apps using [Flutter](https://flutter.dev/?gclsrc=aw.ds&&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQiuwdY-ozZsuZfE-BGTy5OuUT4zTgoWEmcRhwouBdQ6hpL_9bREiy9gaAsRlEALw_wcB) and [dart](https://dart.dev/)
-
- * I'm currently focused on improving my ability of development backend services using [**ASP.NET Core**](https://nodejs.org/en/) and **SQL Server**
 
  * Ask me about anything, I will be happy to help
  
