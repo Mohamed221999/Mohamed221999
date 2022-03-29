@@ -7,10 +7,10 @@
 
 # Hi, I'm **Mohamed!**
 
- * Full Stack Engineer who is passionate about backend development, web applications and building native and
-   cross platform mobile apps, I have some experience in planning and building applications from scratch and
-   I’m looking forward to working in a challenging work environment and building my knowledge about
-   engineering and computer science.
+ * Software Engineer who is passionate about backend development, web applications and building native and
+cross platform mobile apps, I have some experience in planning and building applications from scratch and
+I’m looking forward to working in a challenging work environment and building my knowledge about
+engineering and computer science.
    
  * I'm currently focused on improving my ability of development backend services using [**ASP.NET Core**](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0) and [**SQL Server**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
    
