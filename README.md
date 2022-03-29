@@ -8,7 +8,7 @@
 # Hi, I'm **Mohamed!**
 
  * Software Engineer who is passionate about backend development, web applications and building native and
-cross platform mobile apps, I have some experience in planning and building applications from scratch and
+cross-platform mobile apps, I have some experience in planning and building applications from scratch and
 I’m looking forward to working in a challenging work environment and building my knowledge about
 engineering and computer science.
    
