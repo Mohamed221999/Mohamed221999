@@ -16,9 +16,9 @@ engineering and computer science.
    
  * I am working as a freelancer mobile and web developer on [Fiverr](https://www.fiverr.com/mohamedragab22?up_rollout=true) and [UpWork](https://www.upwork.com/freelancers/~01898d38ed3e953e12) and i am passionate about cross platform mobile apps using [Flutter](https://flutter.dev/?gclsrc=aw.ds&&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQiuwdY-ozZsuZfE-BGTy5OuUT4zTgoWEmcRhwouBdQ6hpL_9bREiy9gaAsRlEALw_wcB) and [dart](https://dart.dev/)
    
- * My Portfolio: [Mohamed Ragab Website](https://mohamedragaab.github.io/MyResume/)
-   
  * Download My [Resume](https://drive.google.com/file/d/1MvTzWGwV7b94bSloX9EZlWQ3Aas6rnoi/view?usp=sharing) 
+   
+ * My Portfolio: [Mohamed Ragab Website](https://mohamedragaab.github.io/MyResume/)
   
  * Ask me about anything, I will be happy to help
 
