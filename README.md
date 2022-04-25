@@ -4,6 +4,13 @@
 </p>
 
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=MohamedRagaab&label=Profile%20views&color=0e75b6&style=plastic" alt="programmer" /> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="programmer" target="_blank"/> 
+	</a>
+</p>
+
 <p align="center">
 
    <img src="https://user-images.githubusercontent.com/38363762/127749693-bc17f643-1beb-4b8d-8986-83988a963ce3.gif" alt="programmer" width="500" height="400">
