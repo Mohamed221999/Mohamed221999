@@ -6,7 +6,6 @@
 <p align="center">
   
  [![Repos Badge](https://badges.pufler.dev/repos/MohamedRagaab)](https://badges.pufler.dev)
-  
 <img src="https://komarev.com/ghpvc/?username=MohamedRagaab&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedRagaab" />
 </p>
 
