@@ -26,9 +26,8 @@ cross-platform mobile apps, I have some experience in planning and building appl
 I’m looking forward to working in a challenging work environment and building my knowledge about
 engineering and computer science.
    
- * I'm currently focused on improving my ability of development backend services using [**ASP.NET Core**](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0) and [**SQL Server**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+ * I'm currently focused on improving my ability of development backend services using [**ASP.NET Core**](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0) - [**SQL Server**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) and [**NodeJs**](https://nodejs.org/en/) - [**MongoDB**](https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_egypt_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624392&adgroup=115749716783&gclid=CjwKCAjwjZmTBhB4EiwAynRmD64zgPCSbK1uJenQbYQDFHX68ZxmRdhk1ViVwtY7Nqt1rMeAwH2vlRoCso4QAvD_BwE)
    
- * I am working as a freelancer mobile and web developer on [Fiverr](https://www.fiverr.com/mohamedragab22?up_rollout=true) and [UpWork](https://www.upwork.com/freelancers/~01898d38ed3e953e12) and i am passionate about cross platform mobile apps using [Flutter](https://flutter.dev/?gclsrc=aw.ds&&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQiuwdY-ozZsuZfE-BGTy5OuUT4zTgoWEmcRhwouBdQ6hpL_9bREiy9gaAsRlEALw_wcB) and [dart](https://dart.dev/)
    
  * Download My [Resume](https://drive.google.com/file/d/1MvTzWGwV7b94bSloX9EZlWQ3Aas6rnoi/view?usp=sharing) 
    
