@@ -4,20 +4,15 @@
 </p>
 
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=MohamedRagaab&label=Profile%20views&color=0e75b6&style=plastic" alt="programmer" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="programmer" target="_blank"/> 
-	</a>
-</p>
+[![Repos Badge](https://badges.pufler.dev/repos/MohamedRagaab)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=MohamedRagaab&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedRagaab" />
 
 <p align="center">
 
    <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="programmer" width="500" height="400">
   
 
-[![Repos Badge](https://badges.pufler.dev/repos/MohamedRagaab)](https://badges.pufler.dev)
-<img src="https://komarev.com/ghpvc/?username=MohamedRagaab&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedRagaab" />
+
 
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
