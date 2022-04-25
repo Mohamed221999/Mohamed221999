@@ -1,3 +1,9 @@
+<h1 align="center">Hi, I'm **Mohamed!**<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;Backend+Engineer;Always+learning+new+things"></a>
+</p>
+
+
 <p align="center">
 
    <img src="https://user-images.githubusercontent.com/38363762/127749693-bc17f643-1beb-4b8d-8986-83988a963ce3.gif" alt="programmer" width="500" height="400">
@@ -5,7 +11,7 @@
 
 
 
-# Hi, I'm **Mohamed!**
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
  * Software Engineer who is passionate about backend development, web applications and building native and
 cross-platform mobile apps, I have some experience in planning and building applications from scratch and
