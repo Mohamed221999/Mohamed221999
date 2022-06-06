@@ -19,7 +19,7 @@
 
 
 
-## About me
+##   <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "10px">    About me
 
  * Software Engineer who is passionate about backend development, web applications and building native and
 cross-platform mobile apps, I have some experience in planning and building applications from scratch and
