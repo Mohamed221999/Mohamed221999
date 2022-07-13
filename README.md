@@ -26,7 +26,7 @@ cross-platform mobile apps, I have some experience in planning and building appl
 I’m looking forward to working in a challenging work environment and building my knowledge about
 engineering and computer science.
    
- * I'm currently focused on improving my ability of development backend services using [**ASP.NET Core**](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0) - [**SQL Server**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) and [**NodeJs**](https://nodejs.org/en/) - [**MongoDB**](https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_egypt_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624392&adgroup=115749716783&gclid=CjwKCAjwjZmTBhB4EiwAynRmD64zgPCSbK1uJenQbYQDFHX68ZxmRdhk1ViVwtY7Nqt1rMeAwH2vlRoCso4QAvD_BwE)
+ * I'm currently focused on improving my ability of development backend services using [**.NET Core**](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0) - [**SQL Server**](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) and [**NodeJs**](https://nodejs.org/en/) - [**MongoDB**](https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_egypt_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624392&adgroup=115749716783&gclid=CjwKCAjwjZmTBhB4EiwAynRmD64zgPCSbK1uJenQbYQDFHX68ZxmRdhk1ViVwtY7Nqt1rMeAwH2vlRoCso4QAvD_BwE)
    
    
  * Download My [Resume](https://drive.google.com/file/d/1MvTzWGwV7b94bSloX9EZlWQ3Aas6rnoi/view?usp=sharing) 
