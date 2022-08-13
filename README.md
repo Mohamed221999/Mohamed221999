@@ -5,7 +5,7 @@
 
 <div align="center">
   
- [![Repos Badge](https://badges.pufler.dev/repos/MohamedRagaab)](https://badges.pufler.dev)
+ [![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
 <img src="https://komarev.com/ghpvc/?username=MohamedRagaab&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedRagaab" />
   
 </div>
