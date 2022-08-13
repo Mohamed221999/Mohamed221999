@@ -5,7 +5,7 @@
 
 <div align="center">
   
- [![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <img src="https://komarev.com/ghpvc/?username=MohamedRagaab&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedRagaab" />
   
 </div>
