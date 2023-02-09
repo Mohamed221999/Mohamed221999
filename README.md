@@ -29,6 +29,7 @@ in a challenging environment and building my knowledge about engineering and com
    
    
  * Download My [Resume](https://drive.google.com/file/d/169t1XmJecGsVZtyvZ1X0gOK7jUsdSa0e/view?usp=share_link) 
+ * My [Blog](https://fergany.hashnode.dev/) 
    
  * My Portfolio: [Mohamed Ragab Website](https://mohamedragaab.github.io/MyResume/)
   
